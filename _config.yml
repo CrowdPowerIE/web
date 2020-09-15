@@ -1,0 +1,38 @@
+# Site settings
+title: CrowdPower
+description: 'Business Card Page'
+url: 'http://thomas.zuehlke.family'
+baseurl: ''
+profilepic: '/images/crowdpower.png'
+bkimage: '/images/bk1.jpg'
+google_analytics: UA-XXXXXX-X
+fontawesome_url: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/js/all.min.js'
+fontawesome_integrity: 'sha512-YSdqvJoZr83hj76AIVdOcvLWYMWzy6sJyIMic2aQz5kh2bPTd9dzY3NtdeEAzPp/PhgZqr4aJObB3ym/vsItMg=='
+
+
+author:
+  name: 'CrowdPower'
+  email: donal.hunt@ucc.ie
+#  twitter_username: thomzuehlke
+#  facebook_username: joshgerdes
+  github_username: CrowdPowerIE 
+#  linkedin_username:  thomas-zühlke-889182165
+#  meetup_name: Azure-Meetup-Rostock-MV
+
+# Build settings
+destination: _site
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+#plugins: ['jekyll-paginate']
+exclude: ['README.md', 'screenshot-overview.png']

@@ -1,0 +1,15 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: CrowdPower website
+  gh_user: crowdpowerie
+  repo: web
+  img: https://icons-for-free.com/download-icon-webpage+website+icon-1320087271286406322_128.png
+  desc: A fork of the jekyll-uno-timeline repo from Thomas Zühlke.
+
+- name: CrowdPower updates
+  gh_user: donalhunt
+  repo: REC2020-updates
+  img: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  desc: Updates from the lead developer on CrowdPower.
+
