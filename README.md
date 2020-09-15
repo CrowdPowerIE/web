@@ -1,9 +1,6 @@
 <<<<<<< HEAD
-# web
-Main landing page for the research project.
-=======
-# Jekyll-Uno with Projects as Timeline
-A Jekyll Theme, based on the Uno-Theme with a list of projects as Timeline.
+# CrowdPowerIE / web
+Main landing page for the research project based on https://github.com/tzuehlke/jekyll-uno-timeline.
 
 ## How does is look
 [Demo](http://thomas.zuehlke.family/)
@@ -38,4 +35,3 @@ Access via: [http://localhost:4000/](http://localhost:4000/)
 * using [github_api.js](https://github.com/jarrekk/Jalpc/blob/master/static/js/github_api.js) from [Jalpc.](https://github.com/jarrekk/Jalpc), but:
   * changed the GitHub-URL for using with persons and organisations
   * added watchers number
->>>>>>> upstream/master
