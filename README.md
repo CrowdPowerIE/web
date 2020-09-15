@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CrowdPowerIE / web
 Main landing page for the research project based on https://github.com/tzuehlke/jekyll-uno-timeline.
 
