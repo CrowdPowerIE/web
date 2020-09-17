@@ -1110,6 +1110,7 @@ pre {
 	display: block;
 	padding: 2em 0 0 0;
 	border-top: 2px solid #dddddd;
+	text-align: center;
 	font-size: .7em;
 	color: #b3b3b3; }
 
@@ -1121,6 +1122,15 @@ pre {
 		text-decoration: underline; }
 		.footer__copyright a:hover {
 			color: #b9301c; }
+
+.footer__logos {
+	display: block;
+	margin-bottom: 2em; }
+
+.footer__logos img {
+	height: 3em !important;
+	margin-left:3em;
+	margin-right:3em;}
 
 .avatar,
 .logo {
