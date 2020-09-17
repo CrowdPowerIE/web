@@ -35,4 +35,4 @@ kramdown:
   hard_wrap: false
 
 #plugins: ['jekyll-paginate']
-exclude: ['README.md', 'screenshot-overview.png']
+exclude: ['README.md', 'screenshot-overview.png', 'vendor/bundle']
