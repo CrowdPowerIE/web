@@ -1,6 +1,11 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: CrowdPower Flyer (Nov 2020)
+  link: /pdf/crowdpower-leaflet-nov2020.pdf
+  img: https://icons-for-free.com/iconfiles/png/512/file+format+pdf+type+icon-1320167363164679406.png
+  desc: Downloadable PDF containing information about this project.
+
 - name: CrowdPower website
   gh_user: crowdpowerie
   repo: web
